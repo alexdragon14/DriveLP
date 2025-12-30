@@ -1,0 +1,14 @@
+/Library
+/Logs
+/Packages
+/ProjectSettings
+/Temp
+/UserSettings
+/EXE
+/TurretAgent
+/.vs
+/.vscode
+/obj
+*.sln
+*.vsconfig
+*.csproj
